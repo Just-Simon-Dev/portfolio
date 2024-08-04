@@ -1,0 +1,16 @@
+/* src/app/navbar/navbar.component.css */
+.spacer {
+  flex: 1 1 auto;
+}
+
+.sidenav-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: transparent;
+}
+
+.sidenav {
+  width: 250px;
+}
+
